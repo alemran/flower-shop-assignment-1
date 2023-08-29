@@ -1,0 +1,209 @@
+/* common proparties */
+
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    font-size: 18px;
+
+}
+
+.btn-primary {
+    background-color: #E55473;
+    padding: 20px 43px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #fff;
+    border-radius: 6px;
+    border: none;
+}
+
+.heading-primary {
+    color: #272727;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+.heading-secondary {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+}
+.width-550{
+    max-width: 550px;
+    line-height: normal;
+}
+.mt-30 {
+    margin-top: 30px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.pink {
+    color: #E55473;
+}
+.white{
+    color: #fff;
+}
+.ash{
+    color: #868686;
+}
+
+.align-center {
+    text-align: center;
+}
+
+/* common proparties */
+
+
+/* top banner */
+
+
+header {
+    background-color: #E5547310;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+}
+
+
+.banner {
+    padding: 30px 30px 0px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    max-width: 1440px;
+}
+
+.banner-content {
+    max-width: 700px;
+}
+
+.banner-content p {
+    padding: 30px 0 0;
+    color: rgba(39, 39, 39, 0.60);
+}
+
+.banner .profile-img {
+    width: 500px;
+}
+
+/* Our Featured Flowers */
+
+.featured-flower {
+    padding: 80px 0;
+
+}
+
+.feature-intro {
+    max-width: 800px;
+    text-align: center;
+    padding: 50px;
+}
+
+.feature-intro p {
+    padding: 30px;
+}
+
+.feature-all {
+    display: flex;
+    max-width: 1440px;
+    flex-wrap: wrap;
+    margin: 0 auto;
+}
+
+.feature-info {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    text-align: center;
+    padding: 80px 0;
+    margin-top: 80px;
+}
+
+.feature-all-deals{
+    background-image: url(/image/Rectangle\ 9.png);
+}
+
+.feature-info h4 {
+    color: rgba(39, 39, 39, 0.80);
+    font-size: 22px;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.feature-1 {
+    background-color: #E5547310;
+    min-width: 464px;
+    min-height: 538px;
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.feature-caption {
+    text-align: center;
+    padding: 20px;
+    text-decoration: underline
+}
+
+.feature-2 {
+    background: rgba(5, 151, 160, 0.15);
+    min-width: 464px;
+    min-height: 538px;
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    display: flex;
+    align-items: flex-end;
+}
+
+.feature-3 {
+    background: rgba(71, 125, 17, 0.15);
+    min-width: 464px;
+    min-height: 538px;
+    text-align: center;
+    border-radius: 300px 300px 0px 0px;
+    display: flex;
+    align-items: flex-end;
+}
+
+
+.top-header {
+    background-color: #E5547310;
+    background-repeat: no-repeat;
+    background-position: bottom right;
+    padding: 100px 0;
+}
+
+.feature-all-deals-form{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.feature-all-deals-form input{
+    padding: 24px 147px 24px 46px;
+    margin: 30px 20px 0px 30px;
+    border: none;
+    border-radius: 6px;
+}
+
+footer{
+    background: #111010;
+    padding: 5px 0px;
+  
+}
